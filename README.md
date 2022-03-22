@@ -18,7 +18,7 @@ You fill in the sheets with the appropriate information.
 Either after or during the session.
 
 ### Way of Writing
-Go to https://docs.google.com/spreadsheets/d/19qHu-ZpUOnLwrlUaBZfwRavfKNL8MI3ajgcfrycSVIw/edit?usp=sharing
+Go to https://docs.google.com/spreadsheets/d/19qHu-ZpUOnLwrlUaBZfwRavfKNL8MI3ajgcfrycSVIw
 Make a copy on your local Google Drive of the file. 
 Start taking notes.
 
