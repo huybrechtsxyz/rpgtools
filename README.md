@@ -10,7 +10,7 @@ The campaign tracker tracks:
 - Items and inventory: all the cool stuff you have or need to find.
 - Lore and knowledge: all the DM lore dumps here.
 - Continents, regions, and locations of the world.
-- Libarary: a hyperlink page to all the cool stuff you get from the DM.
+- Library: a hyperlink page to all the cool stuff you get from the DM.
 - Talent tree: if your DM uses the talent tree, keep track of your points and upgrades here.
 
 ### Way of Working
