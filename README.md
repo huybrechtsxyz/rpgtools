@@ -6,6 +6,7 @@ Role playing game tools and applications from Huybrechts XYZ.
 The campaign tracker tracks:
 - Sessions: when is the next session, what happened the previous time, and track your hero/attendance points.
 - Quests and actions: what did that old hag asked us to do again? No longer doubt your to do list.
+- Encounters: keep track of your kills, successes, and failures.
 - People and factions: names, locations, and if that NPC really liked you.
 - Items and inventory: all the cool stuff you have or need to find.
 - Lore and knowledge: all the DM lore dumps here.
