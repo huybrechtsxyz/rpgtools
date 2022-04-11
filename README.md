@@ -20,12 +20,18 @@ Either after or during the session.
 
 ### Way of Writing
 Go to either
-v1. Extended edition: https://docs.google.com/spreadsheets/d/19qHu-ZpUOnLwrlUaBZfwRavfKNL8MI3ajgcfrycSVIw
-v2. Simplified edition: https://docs.google.com/spreadsheets/d/12K6bHqxZoWsg6HwYANtlVyYwYs-yGx-dXHbMNTM3gl0
+v1. Extended edition:
+> https://docs.google.com/spreadsheets/d/19qHu-ZpUOnLwrlUaBZfwRavfKNL8MI3ajgcfrycSVIw
+
+v2. Simplified edition:
+> https://docs.google.com/spreadsheets/d/12K6bHqxZoWsg6HwYANtlVyYwYs-yGx-dXHbMNTM3gl0
+
+Instructions:
 Make a copy on your local Google Drive of the file. 
 Start taking notes.
 
 Remark.
-Areas that are greyed out are protected for a reason. These have formulas, update at your own risk.
+Areas that are greyed out or have the text colour blue are protected for a reason.
+These have formulas, update at your own risk.
 
 That is all. Have fun!
