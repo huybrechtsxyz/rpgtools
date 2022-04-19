@@ -19,12 +19,8 @@ You fill in the sheets with the appropriate information.
 Either after or during the session.
 
 ### Way of Writing
-Go to either
-v1. Extended edition:
-> https://docs.google.com/spreadsheets/d/19qHu-ZpUOnLwrlUaBZfwRavfKNL8MI3ajgcfrycSVIw
-
-v2. Simplified edition:
-> https://docs.google.com/spreadsheets/d/12K6bHqxZoWsg6HwYANtlVyYwYs-yGx-dXHbMNTM3gl0
+Follow the google sheet link:
+> https://docs.google.com/spreadsheets/d/1hcY4uFiO1AIiaXidalKlodo1Nm-MFGM5hCZzPGHShnw/edit?usp=sharing
 
 Instructions:
 Make a copy on your local Google Drive of the file. 
